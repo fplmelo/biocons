@@ -1,5 +1,5 @@
 ---
-title: "Ecologia Geral 2"
+title: "Biologia da Conservação PPGBV + PPGEtno"
 subtitle: "Aula 1 - Introdução à Biodiversidade"
 author: "Felipe Melo"
 institute: "Laboratório de Ecologia Aplicada - UFPE"
@@ -8,13 +8,13 @@ encoding: "UTF-8"
 output: 
   xaringan::moon_reader:
     libs_dir: libs
-    css: ["robot","tamu-fonts"]
+    css: ["robot","tamu-fonts", "cols.css"]
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
       ratio: "16:9"
-      beforeInit: "macros.js"
+      beforeInit: ["macros.js","cols_macro.js"]
 
 ---
 ```{r setup, include=FALSE}
@@ -33,6 +33,28 @@ xaringanExtra::use_fit_screen()
 class: center, middle
 
 # O que é biodiversidade?
+---
+.left-column[
+# Um pouco de história
+## A perda das variedades
+]
+
+<img src=libs/ark.png width = 350>
+<img src=libs/myers.jpeg width = 350>
+
+# Norman Myers (1934-2019)
+
+---
+# Níveis de diversidade
+#![:col_header Genes, Especies, Ecossistemas]
+
+###![:col_row Diversidade intra-específica, Diversidade inter-específica, Diversidade intra/inter-ecossistêmica]
+###![:col_row Potencial evolutivo, Funções ecológicas, Ciclos biogeoquímicos]
+###![:col_row <img src= libs/maiz.jpg width = 250>, <img src= libs/butter.jpg width = 250>,<img src= libs/landscape.jpg width = 250>]
+
+
+
+
 ---
 # Definições
 
@@ -57,7 +79,7 @@ class: center, middle
 # Diversidade filogenética
 
 .pull-left[
-<img src="https://science.sciencemag.org/content/sci/363/6424/282/F1.large.jpg?width=800&height=600&carousel=1" height = 500/>
+<img src=libs/bees.png width = 250>
 [Grab et al 2019](https://science.sciencemag.org/content/363/6424/282)]
 
 .pull-right[
