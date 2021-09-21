@@ -1,0 +1,41 @@
+---
+title: "Biologia da Conservação PPGBV + PPGEtno"
+subtitle: "Aula 2 - Geopolítica da Biodiversidad"
+author: "Felipe Melo"
+institute: "Laboratório de Ecologia Aplicada - UFPE"
+date: "`r Sys.Date()`"
+encoding: "UTF-8"
+output: 
+  xaringan::moon_reader:
+    libs_dir: libs
+    css: ["robot","tamu-fonts", "cols.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      beforeInit: ["macros.js","cols_macro.js"]
+
+---
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+xaringanExtra::use_share_again()
+xaringanExtra::use_scribble()
+xaringanExtra::use_fit_screen()
+```
+---
+class: center, middle
+
+# Geopolítica da Biodiversidade
+---
+
+---
+class: center, middle
+# FIM
+---
