@@ -34,6 +34,15 @@ class: center, middle
 
 # Geopolítica da Biodiversidade
 ---
+.pull-left[
+# O que precisamos saber?
+## - Como a biodiversidade se incorporou às agendas geoplíticas?
+## - Conferências multi-laterias e órgãos internacionais
+## - IPBES e IUCN
+## - Ecologia Política da Biodiversidade
+]
+.pull-right[
+<ing src=https://tenor.com/btIai.gif width = 100>]
 
 ---
 class: center, middle
