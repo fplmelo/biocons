@@ -172,7 +172,23 @@ L.tak, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikime
 ]
 
 ---
-#
+# [IPBES](https://ipbes.net/)
+.pull-left[
+
+### Atualmente é a maior iniciativa multinacional e interdisciplinar para a biodiversidade
+### Intergovernamental e independente
+### Focda em políticas públicas
+<img src=https://lh5.googleusercontent.com/GWmrA_YIoNlwvJ-QxtBuU9VFYkmqkcgM7TT-o1GqCXORQViA4ZyiJ6zf3FsH-MwLTUWZXqF7mGwGhJjWCV3oDemnV5yxtnFUwwhU68Ax01Wd7FTjE9nS56zzxPb8Fuivb_HmMQ8C>
+]
+.pull-right[
+<img src=https://ipbes.net/sites/default/files/styles/large/public/2021-06/global_assessment_cover.jpg?itok=KlZzB-bj>
+]
+
+---
+# [BPBES](https://www.bpbes.net.br/)
+.center[
+<img src=libs/bpbes.png width = 800>]
+
 ---
 class: center, middle
 # FIM
