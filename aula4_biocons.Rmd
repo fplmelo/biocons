@@ -1,5 +1,5 @@
 ---
-title: "Ecologia Geral 2"
+title: "Biologia da Conservação PPGBV + PPGEtno"
 subtitle: "Aula 4 - Introdução à Biologia da Conservação"
 author: "Felipe Melo"
 institute: "Laboratório de Ecologia Aplicada - UFPE"
@@ -50,7 +50,7 @@ xaringanExtra::use_fit_screen()
 .center[
 # O que é a biologia da conservação?
 
- <img src="libs/img/consbio.jpg" height="500px" width="600px" />]
+ <img src="libs/consbio.jpg" height="500px" width="600px" />]
 
 ---
 # Algumas características
@@ -188,7 +188,7 @@ xaringanExtra::use_fit_screen()
 .pull-left[
 ## Chico Mendes
 
-<img src="http://www.synod.va/content/sinodoamazonico/pt/testemunhos-da-amazonia/chico-mendes/_jcr_content/article-container/textimage/image.img.jpg/1549537953058.jpg" height = 250>]
+<img src="https://exame.com/wp-content/uploads/2019/02/chico.jpg?quality=70&strip=info&resize=680,453" height = 250>]
 .pull-right[
 ###- Sindicalista
 ###- Ativista Ambiental
@@ -240,7 +240,7 @@ xaringanExtra::use_fit_screen()
 ---
 #Sistema Nacional de Unidades de Conservação - SNUC
 .center[
-<img src="https://www.oeco.org.br/wp-content/uploads/oeco-migration/images/stories/abr2014/o-q-e-snuc.jpg" height= 400>
+<img src="https://www.oeco.org.br/wp-content/uploads/oeco-migration/images/stories/abr2014/o-q-e-snuc.jpg" height= 350>
 
 ###[O que é o SNUC](https://www.oeco.org.br/dicionario-ambiental/28223-o-que-e-o-snuc/)
 ###[Escute esse podcast também](https://biologiadaconservacao.com.br/papagaiodeprimata-ep6)
