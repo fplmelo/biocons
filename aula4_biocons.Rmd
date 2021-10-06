@@ -1,6 +1,6 @@
 ---
 title: "Biologia da Conservação PPGBV + PPGEtno"
-subtitle: "Aula 4 - Introdução à Biologia da Conservação"
+subtitle: "Aula 3 - História da Biologia da Conservação"
 author: "Felipe Melo"
 institute: "Laboratório de Ecologia Aplicada - UFPE"
 date: "`r Sys.Date()`"
