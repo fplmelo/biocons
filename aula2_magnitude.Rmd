@@ -1,8 +1,8 @@
 ---
-title: "Ecologia Geral 2"
-subtitle: "Aula 2 - Padrões de distribuição e magnitude da biodiversidade"
+title: "Biologia da Conservação"
+subtitle: "Aula 5 - Padrões de distribuição e magnitude da biodiversidade"
 author: "Felipe Melo"
-institute: "Laboratório de Ecologia Aplicada - UFPE"
+institute: "PPGEtno+PPGBV"
 date: "`r Sys.Date()`"
 encoding: "UTF-8"
 output: 
@@ -71,7 +71,7 @@ class: center, middle
 ---
 # A bidiversidade se desenvolveu em diferentes lugares
 ### no mar [(mamíferos)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019653)
-<img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0019653.g001"/>
+<img src="https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0019653.g001" width 300>
 
 ---
 # A própria árvore da vida é bastante desigual em termos de diversidade
@@ -79,7 +79,7 @@ class: center, middle
 ---
 # Padrões e mais padrões
 .pull-left[
-<img src="https://www.researchgate.net/profile/Andy-Purvis/publication/12497295/figure/fig2/AS:286653269725201@1445354873766/Subtaxa-within-taxa-are-often-distributed-unevenlyUneven-distribution-of-species-among_W640.jpg">
+<img src="libs/purvis.jpg">
 [Purvis & Hector¨ (2000).](https://www.nature.com/articles/35012221)
 ]
 
@@ -94,11 +94,11 @@ class: center, middle
 ---
 # Qual o nosso nível de conhecimento sobre a biodiversidade entre clados?
 .pull-left[
-<img src="/slides/libs/img/pie_life.png" height =400>
+<img src="libs/pie_life.png" height =400>
 [Purvis & Hector¨ (2000).](https://www.nature.com/articles/35012221)
 ]
 .pull-right[
-<img src="/slides/libs/img/tree_taxa.png" height =400 width= 400>
+<img src="/libs/tree_taxa.png" height =400 width= 400>
 ]
 
 ---
@@ -124,7 +124,8 @@ Estava bastante interessado na distribuição das espécies em ilhas do Sul da A
 ]
 
 .pull-right[
-<img src="https://science.sciencemag.org/content/sci/357/6354/eaam8326/F1.large.jpg?download=true">]
+<img src=https://www.science.org/cms/10.1126/science.aam8326/asset/1160cc5d-d79a-4f05-83ab-6b72c3a90637/assets/graphic/357_aam8326_fa.jpeg>
+]
 ---
 # Relação espécie-área
 - ### O número de espécies aumenta com a área amostrada
@@ -153,16 +154,9 @@ spe_area_exp%>%
 .center[
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-51633-8_7/MediaObjects/470677_1_En_7_Figa_HTML.png" height= 500 >]
 ---
-# Biogeografia Histórica
-.center[
-<img src="https://www.scielo.br/img/revistas/rod/v69n4//2175-7860-rod-69-04-2209-gf01.jpg" height= 400 >
-
-https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2175-78602018000402209]
-
----
 # Interação entre espécies
 .center[
-<img src="/slides/libs/img/bio_int.png" height=500/>
+<img src="/libs/bio_int.png" height=500/>
 ]
 ---
 # Biogeografia de ilhas
@@ -206,7 +200,7 @@ Atenção para as cores vermelhas, que mostram onde espećies novas de mamífero
 ]
 --
 .pull-right[
-<img src="/slides/libs/img/med.png">]
+<img src="/slides/biocons/libs/med.png">]
 ---
 # Aplicações na conservação da biodiversidade
 .center[´
